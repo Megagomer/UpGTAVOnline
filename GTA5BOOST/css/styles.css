@@ -1,0 +1,18 @@
+p{
+	color: white 
+}
+body{
+	font-size: 15px;
+    background-color: lightblue;
+    color: white;
+	background-image: url("https://steamuserimages-a.akamaihd.net/ugc/1644343244710965126/E0925D0614A3BCF22E64A3C293A8A8CC3EA4D777/?imw=512&amp;imh=288&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true");
+}
+il{
+	background-color: lightgreen;
+}
+a:link {
+    color: green;
+    background-color: blue;
+    font-size: 30px;
+	background-image: url("https://coolsen.ru/wp-content/uploads/2022/01/11-20220114_190656.jpg")
+}
